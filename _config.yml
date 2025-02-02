@@ -3,4 +3,4 @@ name: "Dushyant Vasoya"
 description: "Senior Software Engineer | Full-Stack Developer | Automation Expert"
 baseurl: ""
 url: "https://DushyantVasoyaUsa.github.io"
-theme: minima
+theme: jekyll-theme-minimal
